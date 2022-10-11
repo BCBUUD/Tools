@@ -6,7 +6,6 @@ from moviepy import *
 from moviepy.editor import VideoFileClip
 from pytube import YouTube
 from pytube import Playlist
-import shutil
 import os 
 import glob
 
@@ -29,7 +28,6 @@ def select_path():
    # vid_clip = VideoFileClip(mp4_video)
    # vid_clip.close()
     #move file to selected directory
-    #shutil.move(mp4_video, user_path)
    # screen.title('Download Complete! Download Another File...')
 
 
