@@ -14,3 +14,4 @@
 
 # mini nas server 
 
+# message server that sends logs to main device of network status and the recon of devices on LAN
