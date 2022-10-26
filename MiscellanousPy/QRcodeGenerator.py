@@ -2,7 +2,6 @@
 import qrcode 
 
 
-
 data = input("PUT TEXT HERE TO CONVERT TO QR CODE")
 
 img = qrcode.make(data)

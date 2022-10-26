@@ -10,7 +10,7 @@ inImgJPG = 'image1.jpg'
 outImgPNG = 'topSecret.png'
 outImgJPG = 'topSecret2.jpg'
 
-msg = 'You gotta stop farting so much bro, you a febreeze fart freshener.'
+msg = 'You gotta stop farting so much bro, you a febreeze fart.'
 
 lsb.hide(inImgPNG, message=msg).save(outImgPNG)
 
