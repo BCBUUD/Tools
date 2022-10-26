@@ -53,8 +53,10 @@ canvas.create_image(250, 80, image=logo_img)
 #link field
 link_field = Entry(screen, width=40, font=('Arial', 15) ) # input box
 link_label = Label(screen, text="Enter Movie or Show: ", font=('Arial', 20))
+
 Season_Number = Entry(screen, width=10, font=('Arial', 15) ) # season input 
 Season_Label = Label(screen, text='Enter Season:', font=('Arial', 15))
+
 Episode_number = Entry(screen, width=10, font=('Arial', 15) )# episode input 
 Episode_Label = Label(screen, text='Enter Ep Number:', font=('Arial', 15))
 

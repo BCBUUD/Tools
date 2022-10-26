@@ -6,7 +6,7 @@ import pandas as pd
 import os 
 import numpy as np 
 
-filename = "AUG 28 22Data.txt"
+filename = [1,2,3,4,5,6,7]
 
 data = np.loadtxt(filename)
 
