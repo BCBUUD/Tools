@@ -13,18 +13,16 @@ data = np.loadtxt(filename)
 print(data)
 
 # data points
-x = [data]
-y = [10,30,50,80,100,130,180,200,300,400,500,700,900]
+#x = [data]
+#y#lt.plot(x,y)
 
-plt.plot(x,y)
+#plt.title("Coin Stats")
 
-plt.title("Coin Stats")
+#plt.xlabel("Average from phone farms")
 
-plt.xlabel("Average from phone farms")
+#plt.ylabel("Account Growth")
 
-plt.ylabel("Account Growth")
-
-plt.show()
+#plt.show()
 
 
 
