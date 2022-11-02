@@ -14,6 +14,11 @@ Mobile Messaging App:
     on the mode you have for them. Avatars can pop out of the Photo
     in different ways.  
 
+    (EVERYTHING WITH CUSTOMIZING THE EXPERIENCE IS OPTIONAL
+     YOU CAN USE THE APP SOLELY FOR ONLY PRIVATE MESSAGING.)
+
+
+
     Immersion: build a avatar and use them as your online user
     and have actual animation and engagement. Ex: photo message App
     could be split like a Nintndo DS where the top is the message 
