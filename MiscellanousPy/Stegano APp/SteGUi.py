@@ -7,6 +7,7 @@ import tkinter as tk
 from PIL import Image, ImageTk
 import os 
 
+# Setting up Composition
 
 root = Tk()
 
