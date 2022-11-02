@@ -1,0 +1,47 @@
+Mobile Messaging App:
+    Privacy: Be able to message securely 
+    with steganography tech to hide messages
+    within photos. Security Mode where you will
+    be able to lock the images if anyone ever 
+    goes through your phone. Messaging servers 
+    can be hosted by clients to keep the network 
+    safer. any old chats you want you would have to 
+    hold storage it locally on your device. (NOT ME OR ANYONE)
+
+
+    Photo Message sending Features: images will have features you can add
+    before sending them, images break differently depending
+    on the mode you have for them. Avatars can pop out of the Photo
+    in different ways.  
+
+    Immersion: build a avatar and use them as your online user
+    and have actual animation and engagement. Ex: photo message App
+    could be split like a Nintndo DS where the top is the message 
+    and the bottom half of the screen is your avatar with the other 
+    persons avatar walking, going for a run, sitting in a custom room.
+    customize it so it'll be able to go based on the day so if it's night then
+    it's night in the avatars world. Eventually make avatar's --(work)-- anytime 
+    you open the app the avatar will be on break from a set of jobs it'll show the 
+    character. and it'll show them on the phone and when you scroll to the messages itll
+    have the UI change with an Animation as if your character got transported to another 
+    virtual world where you are chatting with someone else.
+
+
+    Freedom: Be able to create payment bots to 
+    pay someone in cryptocurrency. it can start with XYO 
+    the avatar's get paid in a little bit of XYO.
+    to put simply, everytime you open the app throughout the 
+    day, itll produce XYO into your avatar's wallet. you will be 
+    able to eventually withdraw it but within this world will be 
+    real lending & borrowing protocols. 
+
+    Community: Everyone gets together to unlock new protocols. 
+    depending on activity in engagement and volume in cryptocurrency;
+    itll make it so there will be certain threshold of cryptocurrency to
+    send back & forth to unlock perpetuals that are staking and not get 
+    exposed as bad with the XYO you earned by just using the app.
+
+
+
+
+
