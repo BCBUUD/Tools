@@ -1,0 +1,4 @@
+Mobile Messaging App: 
+    Goal is to have a stegano oreinted messaging app to 
+    simplify and add privacy to communications. everyone 
+    has the right to 
