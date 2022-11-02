@@ -9,7 +9,7 @@ Mobile Messaging App:
     hold storage it locally on your device. (NOT ME OR ANYONE)
 
 
-    Photo Message sending Features: images will have features you can add
+    Photo Message sending Features: Images will have features you can add
     before sending them, images break differently depending
     on the mode you have for them. Avatars can pop out of the Photo
     in different ways.  
