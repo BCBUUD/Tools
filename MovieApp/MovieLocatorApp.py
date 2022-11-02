@@ -7,7 +7,7 @@ import webbrowser
 
 
 
-# Backend logic to find Movies
+# Backend to find Movies
 def movie():
     movie = link_field.get()
     ia = imdb.IMDb() # imdb api 
